@@ -21,11 +21,6 @@ const router = createRouter({
       component: registerUser
     },
     {
-      path: '/registerP',
-      name: 'registerP',
-      component: registerP
-    },
-    {
       path: '/register',
       name: 'register',
       component: register
