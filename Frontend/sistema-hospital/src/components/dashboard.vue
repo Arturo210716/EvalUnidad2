@@ -298,4 +298,19 @@
         </div>
     </div> -->
     </div>
+
+<footer>
+    <Pie_Pagina></Pie_Pagina>
+</footer>
 </template>
+
+<script>
+    import Pie_Pagina from './Pie_Pagina.vue'
+
+    export default{
+        components:{
+            Pie_Pagina
+            
+        }
+    }
+</script>
